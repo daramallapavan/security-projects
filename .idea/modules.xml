@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MODERN-SECURITY-PROJECTS/Hotel-Management-Service/Hotel-Management-Service.iml" filepath="$PROJECT_DIR$/MODERN-SECURITY-PROJECTS/Hotel-Management-Service/Hotel-Management-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MODERN-SECURITY-PROJECTS/Kalki-Project/Kalki-Project.iml" filepath="$PROJECT_DIR$/MODERN-SECURITY-PROJECTS/Kalki-Project/Kalki-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KEYCLOACK-PROJECTS/KeyCloak-Springboot/KeyCloak-Springboot.iml" filepath="$PROJECT_DIR$/KEYCLOACK-PROJECTS/KeyCloak-Springboot/KeyCloak-Springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MODERN-SECURITY-PROJECTS/Project-July/Project-July.iml" filepath="$PROJECT_DIR$/MODERN-SECURITY-PROJECTS/Project-July/Project-July.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SECURITY.iml" filepath="$PROJECT_DIR$/.idea/SECURITY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KEYCLOACK-PROJECTS/Spring-Security-KeyCloack-Aug/Spring-Security-KeyCloack-Aug.iml" filepath="$PROJECT_DIR$/KEYCLOACK-PROJECTS/Spring-Security-KeyCloack-Aug/Spring-Security-KeyCloack-Aug.iml" />
+    </modules>
+  </component>
+</project>

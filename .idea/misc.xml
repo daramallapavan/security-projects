@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/KEYCLOACK-PROJECTS/KeyCloak-Springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/KEYCLOACK-PROJECTS/Spring-Security-KeyCloack-Aug/pom.xml" />
+        <option value="$PROJECT_DIR$/MODERN-SECURITY-PROJECTS/Project-July/pom.xml" />
+        <option value="$PROJECT_DIR$/MODERN-SECURITY-PROJECTS/Kalki-Project/pom.xml" />
+        <option value="$PROJECT_DIR$/MODERN-SECURITY-PROJECTS/Hotel-Management-Service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>

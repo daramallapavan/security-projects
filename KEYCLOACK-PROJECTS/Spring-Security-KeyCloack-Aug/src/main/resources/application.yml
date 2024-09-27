@@ -1,0 +1,25 @@
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: "http://localhost:8080/realms/AnanyaTechie"
+          jwk-set-uri: "http://localhost:8080/realms/AnanyaTechie/protocol/openid-connect/certs"
+
+server:
+  port: 9090
+
+jwt:
+  auth:
+    converter:
+      resource-id: "SpringBootKeyCloack-Aug"
+      principle-attribute: "preferred_username"
+
+  #SpringBootKeyCloack-Aug
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="KeyCloak-Springboot" />
+        <module name="Spring-Security-KeyCloack-Aug" />
+        <module name="Project-July" />
+        <module name="Hotel-Management-Service" />
+        <module name="Kalki-Project" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Hotel-Management-Service" target="17" />
+      <module name="Kalki-Project" target="17" />
+      <module name="KeyCloak-Springboot" target="17" />
+      <module name="Project-July" target="17" />
+      <module name="Spring-Security-KeyCloack-Aug" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Hotel-Management-Service" options="-parameters" />
+      <module name="Kalki-Project" options="-parameters" />
+      <module name="KeyCloak-Springboot" options="-parameters" />
+      <module name="Project-July" options="-parameters" />
+      <module name="Spring-Security-KeyCloack-Aug" options="-parameters" />
+    </option>
+  </component>
+</project>
